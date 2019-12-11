@@ -1,5 +1,6 @@
 #Original edit by Nil Fernandez Lojo
 
+#Calculate mean of most frequent residues at each position of multiple alignment file for given protein
 import gzip
 import numpy as np
 from collections import Counter
